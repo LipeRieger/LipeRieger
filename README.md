@@ -1,29 +1,21 @@
 <h1 align='center'>Felipe Rieger - Documentation</h1>
 
-<p>🎓 Atualmente curso Ensino Médio + Técnico em Informática e já estou trabalhando na produção digital de algumas empresas</p>
+<p>🎓 Cursando Ensino Médio + Técnico em Informática para Internet</p>
 
 <p>💻 Aficionado pelo desenvolvimento de projetos úteis e inovadores</p>
 
-<p><b>Curiosidades:</b> Me interesso pelo desenvolvimento de softwares para veículos autônomos, sempre gostei de carros 🚗</p>
-
-<div align="center">
-  <a href="https://github.com/LipeRieger" target="_blank">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=LipeRieger&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  </a>
-    <a href="https://github.com/LipeRieger" target="_blank">
-    <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeRieger&layout=compact&langs_count=7&theme=vue"/>
-  </a>
-</div>
-
 <h3 style="font-style:italic">Developing Skills</h3>
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=adobe-photoshop&logoColor=007ACC)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-333333?logo=Adobe-Premiere-Pro&logoColor=pourple)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 
 <h3>Contato</h3>
 <p align="left">
