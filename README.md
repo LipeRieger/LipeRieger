@@ -2,6 +2,8 @@
 
 <p>🎓 Cursando Ensino Médio + Técnico em Informática para Internet</p>
 
+<p>📄 | Artigo Curto publicado na SBC: https://sol.sbc.org.br/index.php/latinoware/article/view/31548</p>
+
 <p>💻 Aficionado pelo desenvolvimento de projetos úteis e inovadores</p>
 
 <h3 style="font-style:italic">Developing Skills</h3>
@@ -16,6 +18,7 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-333333?logo=Adobe-Premiere-Pro&logoColor=pourple)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h3>Contato</h3>
 <p align="left">
